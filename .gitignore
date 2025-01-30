@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Arquivos de dependências locais
+package-lock.json
+yarn.lock
+
+# Arquivos de ambiente
+.env
+
+# Diretórios de build (caso você esteja utilizando algum tipo de compilação/transpiração)
+dist/
+build/
+
+# Arquivos de sistema (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Diretórios de cache
+.cache/
+.vscode/
+
+# Arquivos do editor de código (como o VS Code)
+*.swp
